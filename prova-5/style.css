@@ -1,0 +1,76 @@
+ body {
+  background-image:url(background.jpg);
+  background-size: cover;
+  background-attachment: scroll;
+  text-align: center;
+
+}
+.contenitore{
+  box-sizing: border-box;
+  background-color:rgba(0,0,0,0.5);
+  border: 200px;
+  margin-left:300px;
+  margin-right: 300px;
+  margin-top: 50px;
+  padding-bottom: 60px;
+  line-height: 0.5;
+  border-radius: 20px;
+}
+h1{
+  color: #32CD32;
+ font-size: 30px;
+ font-family: "Comic Sans MS";
+
+}
+h2{
+  font-family: "Comic Sans MS"
+}
+.monopattini-disponibili{
+  color: white;
+  text-align: left;
+  margin-left: 5%;
+  font-size: 16px;
+
+}
+nav{
+  background-color: rgba(0,255,0,0.8);
+  padding: 10px;
+  margin-left: 5%;
+  margin-right: 5%;
+
+}
+.carica1 {
+  display: inline-block;
+  width: 35%;
+  height: 25px;
+  background-color: rgba(255,192,0,0.6);
+  border-radius: 5px;
+
+}
+.carica2 {
+  display: inline-block;
+  width: 65%;
+  height: 25px;
+  background-color: rgba(0,255,0,0.6);
+  border-radius: 5px;
+
+}
+.square{
+  color: white;
+
+ }
+
+.carica3 {
+  display: inline-block;
+  width: 15%;
+  height: 25px;
+  background-color: rgba(255,0,0,0.6);
+  border-radius: 5px;
+}
+
+.sottotitolo{
+  font-size: 20px;
+  font-weight: bold;
+  font-family: "Comic Sans MS";
+
+}
